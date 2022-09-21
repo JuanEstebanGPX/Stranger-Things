@@ -23,18 +23,28 @@ arquitectura de 3 capas para su correcto funcionamiento.
 
 # Aplicación DemoDogs Stranger Things
 
-*Insignias
+ php HTML- CSS -UbuntuSever Modelo 3 capaz-VirtualBox-MySQL
+                               
 
-*Índice
+#  Verciones Del Desarrollo
 
-    Crud en LAMP - INNOVACOL
-    Persistencia de Sesion PHP - LoginST
-    Clases, objetos, metodos, atributos en JAVA - StrangerThingsJAVA
+# -> Visual Studio Code
+# -> VirtualBox 6.0.24
+# -> PHP Versión 8.1.2
+# -> APACHE V8
+# -> HTML 5
+# -> CSS3
+# -> MySQL Server 8.0
+# -> Ubuntu Server 20
+# -> Arquitectura modelo de 3 capas 
+
 *Descripción del proyecto
 
-*Estado del proyecto
+# Estado del proyecto
 
-El presente proyecto se encuentra en etapa de desarrollo.
+El presente proyecto se encuentra Finalizado .
+![image](https://user-images.githubusercontent.com/107268193/191627437-344af88d-2005-4e36-8fd9-663e1573b57b.png)
+
 
 *Características de la aplicación y demostración
 
