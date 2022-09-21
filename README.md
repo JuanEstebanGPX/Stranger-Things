@@ -42,8 +42,11 @@ arquitectura de 3 capas para su correcto funcionamiento.
 
 # Estado del proyecto
 
-El presente proyecto se encuentra Finalizado .
 ![image](https://user-images.githubusercontent.com/107268193/191627437-344af88d-2005-4e36-8fd9-663e1573b57b.png)
+
+
+El presente proyecto se encuentra Finalizado .
+
 
 
 *Características de la aplicación y demostración
