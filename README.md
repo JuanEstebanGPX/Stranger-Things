@@ -49,39 +49,72 @@ El presente proyecto se encuentra Finalizado .
 
 
 
-*Características de la aplicación y demostración
+# Características de la aplicación y demostración
 
 A continuacion pueden descargar la maquina virtual, recuerden que deben importarla en virtualbox. La clave de acceso es Politecnico
 
 https://pieduco-my.sharepoint.com/:u:/g/personal/harol_torres_pi_edu_co/EQWT0hl5EJVFlpCmGH3xvc8BblnZehw2bo59Ln26Q4e38w?e=Z7FnRe
 
-*Acceso al proyecto
+# Acceso al proyecto
 
 Las siguientes son las credenciales utilizadas para el proyecto.
 
-Web stranger - Usuario things - Password
 
-BD StrangerTHings2 - BD root - Usuario Colombia2020. - Password
+BD StrangerTHings - Usuario [ BD root ]- [Contraseña Colombia2020.] 
 
-Linux - Ubuntu adminserver - Usuarios con privilegios admin123 - Passwd Ubuntu
+[Linux - Ubuntu adminserver] -[ Usuarios con privilegios admin123] -[Contraseña Ubuntu]
 
-*Tecnologías utilizadas
+# Tecnologías utilizadas
 
-El siguiente proyecto se desarrolla desde el paradigma de programacion orientada a objetos. Para el cual se definen: clases, objetos, metodos y atributos. De igual forma se presenta una solucion en un modelo de tres capas desde la integracion de un LAMP. Asi se listan el versionamiento utilizados en este proyecto:
+El siguiente proyecto se desarrollo con la arquitectura de 3 capas , siendo un servidor web con la ip 192.168.1.39 
+el servidor fue emulado en VirtualBox version 8.0 , y el servidor es UbuntuServer20 ,adicionalmente se uso PHP como lenguaje de programacion
+y HTML 5 con sus respectivos CSS.
 
-Product Version: Apache NetBeans IDE 14 Updates: NetBeans IDE is updated to version NetBeans 8.2 Patch 2 Java: 18.0.2.1; Java HotSpot(TM) 64-Bit Server VM 18.0.2.1+1-1 Runtime: Java(TM) SE Runtime Environment 18.0.2.1+1-1 System: Windows 11 version 10.0 running on amd64; UTF-8; es_CO (nb)
+ HotSpot(TM) 64-Bit Server VM 191.168.1.39.  : Windows 11  amd64; UTF-8_unicode PHPmyadmin
 
-*Personas Contribuyentes
+# Personas Contribuyentes
 
-Equipo de desarrollo Agil - Desarrollador 1 - Desarrollador 2 - Product Owner - Scrum Master - QA Tester -
+Equipo de desarrollo Agil - Desarrollador  Juan Esteban Gomez Pachon  Estudiante  de la faculta de ingeneria 
+del Politecnico Internacion  
 
-*Personas-Desarrolladores del Proyecto
+Aplicativo Web  -> DemoDogs version 01
 
-Harol Hernan Torres Neuta
+
+
+Juan Esteban Gomez Pachon 
 
 Licencia
 Creative Commons 4.0
 
-*Conclusión
+Link Proyecto en Youtube : https://www.youtube.com/watch?v=GZpAgqXVqrw
+GitHub : https://github.com/JuanEstebanGPX/Stranger-Things
 
-El desarrollar aplicaciones desde una vista de programacion orientada a objetos habilita nuevos SKILL en pro de fortalecer conceptos basicos y su puesta en marcha. Adicionalmente la integracion de arquitecturas en un modelo de tres capas permite un performance adecuado y una definicion en una linea base a nivel de transaccionalidad. Esto se resume en el fortalecimiento de conocimientos en desarrollo desde las diferentes tecnologias que se pueden tener.
+# Conclusión
+
+Se concluyo en el desarrollo del aplicativo web de la serie
+StrangerThings, en donde se uso una arquitectura de 3 capas,
+usando un servidor linux compilado en una maquina virtual
+llamada VirtualBox , con ello logramos descargar los paquetes
+de apache los servicios de MySQL , instalando el entorno
+adecuado para el funcionamiento de la aplicación web ,
+desarrollamos la parte del backent y frontend de la aplicación
+demodogs , con los paradigmas de la programacion orientada
+a objetos dando enfasis en el lenguaje PHP HTML CSS y JS ,
+nos enfocamos en lograr diagramas , diccionario de datos ,
+diseñando cada parte de la aplicación para lograr un producto
+funcional y viable para los fanaticos de StrangerThings , con
+un plus adicinoal como es el area administartivo , con el se
+busco crear una ventana limpiar y legible para poder modificar
+datos dentro de la aplicación ,usando un sistema de CRUD con
+la herencia el polifromismo los objetos y clases de la
+programacion orientada a objetos, dentro del proceso de este
+proyecto conluimos con una enseña rigurosa sobre el sistema
+JAX para traer datos con un buscador agregado a la
+aplicación , tambien se implemento buenas practicas sobre la
+seguridad infromatica , creando un sistema de inicio de sesion
+por roles , administrativo y fanatico , logrando un buen
+performance a la hora del usuario manejar muestra aplicaicon
+,en el area de diseño se implementaron formas y colores por
+contenedores para asi poder darle vida a nuestra aplicación ,
+un proyecto de StrangerThings totalmente funcional con una
+pariencia agradable al usuario final que son los fanaticos de esta serie.
