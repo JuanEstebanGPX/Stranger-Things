@@ -2,7 +2,7 @@
 proyecto DemoDogs para los fanatico de la serie StrangerThings
 
 
-# Proyecto Stranger Things
+                                            # Proyecto Stranger Things
 ![image](https://user-images.githubusercontent.com/107268193/191625132-126b9693-3614-4591-81fd-afbef060d983.png)
 
 
