@@ -74,7 +74,7 @@ y HTML 5 con sus respectivos CSS.
 
 # Personas Contribuyentes
 
-Equipo de desarrollo Agil - Desarrollador  Juan Esteban Gomez Pachon  Estudiante  de la faculta de ingeneria 
+-> Desarrollador  Juan Esteban Gomez Pachon  Estudiante  de la faculta de ingeneria 
 del Politecnico Internacion  
 
 Aplicativo Web  -> DemoDogs version 01
