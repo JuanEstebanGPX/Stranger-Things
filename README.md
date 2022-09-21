@@ -1,5 +1,17 @@
 # Stranger-Things DemoDogs
- Aplicativo de Stranger Things
+
+
+
+![image](https://user-images.githubusercontent.com/107268193/191625132-126b9693-3614-4591-81fd-afbef060d983.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/107268193/191626139-e265a221-6c6e-45de-a76d-171aae01a0c5.png)
+
+# Indice  DemoDogs
+
+Aplicativo de Stranger Things
 DemoDogs para los fanáticos de dicha serie , también estará
 dirigida para los curiosos que deseen conocer más de la serie
 ,tendrá un rol de administrador para añadir y modificar
@@ -8,17 +20,6 @@ se desarrollo con el lenguaje de programación
 PHP y su base de datos esta en MySQL, se usom como IDE
 Visual Studio Code se implemento en el proyecto la
 arquitectura de 3 capas para su correcto funcionamiento.
-
-
-
-
-# DemoDogs
-![image](https://user-images.githubusercontent.com/107268193/191625132-126b9693-3614-4591-81fd-afbef060d983.png)
-
-
-
-
-##Índice
 
 *Título e imagen de portada
 
