@@ -21,7 +21,7 @@ PHP y su base de datos esta en MySQL, se usom como IDE
 Visual Studio Code se implemento en el proyecto la
 arquitectura de 3 capas para su correcto funcionamiento.
 
-*Título e imagen de portada
+# Aplicación DemoDogs Stranger Things
 
 *Insignias
 
