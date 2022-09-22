@@ -89,6 +89,11 @@ Creative Commons 4.0
 Link Proyecto en Youtube : https://www.youtube.com/watch?v=GZpAgqXVqrw
 GitHub : https://github.com/JuanEstebanGPX/Stranger-Things
 
+
+
+![image](https://user-images.githubusercontent.com/107268193/191630382-c84da873-0ce2-4b6b-93a8-73b1d2028b1b.png)
+ 
+
 # Conclusión
 
 Se concluyo en el desarrollo del aplicativo web de la serie
